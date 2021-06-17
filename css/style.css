@@ -350,6 +350,7 @@ body {
   border: none;
   font-size: 12px;
   line-height: auto;
+  overflow: hidden;
 }
 
 .header__input:focus {
